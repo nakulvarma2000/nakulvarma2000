@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Automated_Checkout
+- 🌱 I’m currently learning Big Data Analytics
+- 📫 How to reach me: nakulvarma2000@gmail.com
+
+
 <!--
 **nakulvarma2000/nakulvarma2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
